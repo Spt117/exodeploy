@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/exodeploy/static/css/main.eb0dc3cf.chunk.css",
+    "main.js": "/exodeploy/static/js/main.3511d331.chunk.js",
+    "main.js.map": "/exodeploy/static/js/main.3511d331.chunk.js.map",
+    "runtime-main.js": "/exodeploy/static/js/runtime-main.5db7d852.js",
+    "runtime-main.js.map": "/exodeploy/static/js/runtime-main.5db7d852.js.map",
+    "static/js/2.821370f5.chunk.js": "/exodeploy/static/js/2.821370f5.chunk.js",
+    "static/js/2.821370f5.chunk.js.map": "/exodeploy/static/js/2.821370f5.chunk.js.map",
+    "index.html": "/exodeploy/index.html",
+    "static/css/main.eb0dc3cf.chunk.css.map": "/exodeploy/static/css/main.eb0dc3cf.chunk.css.map",
+    "static/js/2.821370f5.chunk.js.LICENSE.txt": "/exodeploy/static/js/2.821370f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5db7d852.js",
+    "static/js/2.821370f5.chunk.js",
+    "static/css/main.eb0dc3cf.chunk.css",
+    "static/js/main.3511d331.chunk.js"
+  ]
+}
