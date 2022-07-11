@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Alyra/tree/main/React/static/css/main.eb0dc3cf.chunk.css",
+    "main.js": "/Alyra/tree/main/React/static/js/main.dc603129.chunk.js",
+    "main.js.map": "/Alyra/tree/main/React/static/js/main.dc603129.chunk.js.map",
+    "runtime-main.js": "/Alyra/tree/main/React/static/js/runtime-main.80eca988.js",
+    "runtime-main.js.map": "/Alyra/tree/main/React/static/js/runtime-main.80eca988.js.map",
+    "static/js/2.a0d2899d.chunk.js": "/Alyra/tree/main/React/static/js/2.a0d2899d.chunk.js",
+    "static/js/2.a0d2899d.chunk.js.map": "/Alyra/tree/main/React/static/js/2.a0d2899d.chunk.js.map",
+    "index.html": "/Alyra/tree/main/React/index.html",
+    "static/css/main.eb0dc3cf.chunk.css.map": "/Alyra/tree/main/React/static/css/main.eb0dc3cf.chunk.css.map",
+    "static/js/2.a0d2899d.chunk.js.LICENSE.txt": "/Alyra/tree/main/React/static/js/2.a0d2899d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80eca988.js",
+    "static/js/2.a0d2899d.chunk.js",
+    "static/css/main.eb0dc3cf.chunk.css",
+    "static/js/main.dc603129.chunk.js"
+  ]
+}
